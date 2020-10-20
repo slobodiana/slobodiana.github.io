@@ -1,4 +1,7 @@
-h1{
+h1{p.fancy{
+color:#666;
+font-style: oblique;
+}
 background-color:#000000;
 color:#8B008B;
 font-size:3em;
