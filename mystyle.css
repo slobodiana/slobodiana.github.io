@@ -11,3 +11,4 @@ font-style:oblique;
 body {background-color: DarkMagenta;}
 th {background-color: white; color: coral;}
 td {background-color: salmon; color: black;}
+table {width= 80%; boarder= 1px solid black;}
