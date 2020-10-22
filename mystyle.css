@@ -15,4 +15,4 @@ table {width= 80%; boarder= 1px solid black;}
 table, th, td {
   border: 2px solid black; 
 }
-lu, li {background-color: black; color:lavender;}
+ul, li {background-color: black; color:lavender;}
