@@ -12,8 +12,5 @@ body {background-color: DarkMagenta;}
 th {background-color: white; color: coral;}
 td {background-color: salmon; color: black;}
 table {width= 80%; boarder= 1px solid black;}
-table, th, td {
-  border: 2px solid black; 
-}
 ul {background-color: black; color:lavender;}
 li {background-color: black; color: lavender;}
