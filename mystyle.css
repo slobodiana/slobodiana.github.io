@@ -4,9 +4,8 @@ color:#black;
 font-size:3em;
 }
 p.fancy{
-background-color:#black;
-color:#DarkOrange;
-font-style:oblique;
+color:#white;
+font-style: oblique;
 }
 body {background-color: DarkMagenta;}
 th {background-color: white; color: coral;}
