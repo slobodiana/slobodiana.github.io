@@ -16,4 +16,4 @@ table, th, td {
   border: 2px solid black; 
 }
 a.fancy{color:#white;}
-img {width="350" height="400"}
+img {width=350; height=400;}
